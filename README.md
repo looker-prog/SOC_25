@@ -25,10 +25,6 @@ Topics Covered:
 Week 3: Data Structures and Advanced Algorithms
 
 Topics Covered:
-- Graph Algorithms:
-  • Graph Representation (Adjacency list/matrix)
-  • DFS (Depth First Search)
-  • BFS (Breadth First Search)
 - Greedy Algorithms.
 
 
